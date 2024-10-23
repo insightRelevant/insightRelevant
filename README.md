@@ -33,11 +33,6 @@
 <br>
 <br>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[GeekosServer&theme=tokyo-night)](https://github.com/GeekosServer](https://github.com/insightRelevant))
-
-
-| ![David's github stats](https://github-readme-stats.vercel.app/api?username=GeekosServer&show_icons=true&theme=tokyonight) | ![David's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeekosServer&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekosServer&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GeekosServer&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![snake gif](https://github.com/GeekosServer/GeekosServer/blob/output/github-contribution-grid-snake.gif)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
