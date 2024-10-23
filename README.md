@@ -1,8 +1,8 @@
 <h1> Hello friends < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align='center'></p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GeekosServer.GeekosServer)
-[![Github](https://img.shields.io/github/followers/GeekosServer?label=Follow&style=social)](https://github.com/GeekosServer)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=insightRelevant.insightRelevant)
+[![Github](https://img.shields.io/github/followers/insightRelevant?label=Follow&style=social)](https://github.com/insightRelevant)
 
 <div size='20px'> Hi! My name is David Soria Fresneda. Thank you for visiting my GitHub profile! I am passionate about Back-End Services and a beginner designer.
 </div>
