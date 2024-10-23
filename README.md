@@ -33,7 +33,8 @@
 <br>
 <br>
 
-[![David's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GeekosServer&theme=tokyonight)](https://git.io/praveenscience)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GeekosServer&theme=tokyo-night)](https://github.com/GeekosServer)
+
 
 | ![David's github stats](https://github-readme-stats.vercel.app/api?username=GeekosServer&show_icons=true&theme=tokyonight) | ![David's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeekosServer&theme=tokyonight) |
 | --- | --- |
