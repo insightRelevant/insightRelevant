@@ -33,6 +33,6 @@
 <br>
 <br>
 
-![snake gif](https://github.com/GeekosServer/GeekosServer/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/insightRelevant/insightRelevant/blob/output/github-contribution-grid-snake.gif)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
