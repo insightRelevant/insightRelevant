@@ -46,7 +46,7 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"> 
 </a>
 <a href="https://github.com/GeekosServer?tab=repositories&q=&type=&language=expo&sort="> 
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Expo_Icon.svg"> 
+  <img width="32px" src="https://d33wubrfki0l68.cloudfront.net/46f3016bb0a048abb1d33dfe25d54a76e0f32529/a3406/icon.png"> 
 </a>
 
 
