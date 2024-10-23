@@ -45,7 +45,7 @@
 <a href="https://github.com/GeekosServer?tab=repositories&q=&type=&language=typescript&sort="> 
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"> 
 </a>
-<a href="https://github.com/GeekosServer?tab=repositories&q=&type=&language=expo&sort="> 
+<a href="https://github.com/insightRelevant?tab=repositories&q=&type=&language=expo&sort="> 
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/expo.svg"> 
 </a>
 
