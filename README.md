@@ -31,7 +31,6 @@
 
 <br>
 <br>
-### Watch my contribution graph get eaten by the snake :snake:
 ![snake gif](https://github.com/insightRelevant/insightRelevant/blob/output/github-contribution-grid-snake.gif)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
