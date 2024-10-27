@@ -4,7 +4,8 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=insightRelevant.insightRelevant)
 [![Github](https://img.shields.io/github/followers/insightRelevant?label=Follow&style=social)](https://github.com/insightRelevant)
 
-<div size='20px'> Hi! My name is David Soria Fresneda. Thank you for visiting my GitHub profile! I am passionate about Back-End Services and a beginner designer. I enjoy exploring new technologies and finding creative solutions to complex problems. With a keen interest in server development and cloud computing, I'm dedicated to enhancing my skills in JavaScript frameworks, particularly React Native and NestJS. I believe in the power of collaboration and am always eager to learn from others in the tech community.
+<div size='28px'>
+Hello! 👋 I'm David Soria Fresneda, a back-end developer focused on NestJS, NodeJS, Express and RESTful APIs. I am passionate about building robust and scalable solutions and am always exploring new tools to optimize the performance and security of my projects. 🚀 Feel free to check out my projects, currently working on an Api With DTO classes in NestJS FrameWork 🚀🚀🚀
 </div>
 
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"></h2>
